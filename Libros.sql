@@ -1,0 +1,5 @@
+﻿CREATE DATABASE Libros 
+GO
+
+USE Libros 
+GO
